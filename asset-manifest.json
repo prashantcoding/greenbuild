@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7529a294.css",
+    "main.js": "/static/js/main.5a7cb018.js",
+    "static/js/787.4b57036c.chunk.js": "/static/js/787.4b57036c.chunk.js",
+    "static/media/hacker.png": "/static/media/hacker.7d830039700f7dbdc4ef.png",
+    "static/media/dance.jpg": "/static/media/dance.e9d4515dd0f5195035f1.jpg",
+    "static/media/mem.jpg": "/static/media/mem.42cda138743b8befa153.jpg",
+    "static/media/work.jpg": "/static/media/work.4cbac61c5e05dd777084.jpg",
+    "static/media/bg.jpg": "/static/media/bg.c9991db38e2f74c6364c.jpg",
+    "static/media/dance1.png": "/static/media/dance1.600a9877846f4d0fe3e6.png",
+    "static/media/gamepad.png": "/static/media/gamepad.b3cebd740c504789d959.png",
+    "static/media/football.png": "/static/media/football.3ba98cbfe2e2b74f2ca8.png",
+    "static/media/photography.png": "/static/media/photography.1e70dd9301a9c2443186.png",
+    "static/media/film.png": "/static/media/film.a986e31183d89eb073da.png",
+    "static/media/arts.png": "/static/media/arts.8c08c2ea9d8bb01243c1.png",
+    "static/media/debate.png": "/static/media/debate.9aaf69e295d6f7d1e0fc.png",
+    "static/media/ami.png": "/static/media/ami.03803b0e20b9d8d1221d.png",
+    "index.html": "/index.html",
+    "main.7529a294.css.map": "/static/css/main.7529a294.css.map",
+    "main.5a7cb018.js.map": "/static/js/main.5a7cb018.js.map",
+    "787.4b57036c.chunk.js.map": "/static/js/787.4b57036c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7529a294.css",
+    "static/js/main.5a7cb018.js"
+  ]
+}
